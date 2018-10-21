@@ -717,7 +717,6 @@ void transfer(Entry[] newTable) {
 ### 6. 扩容-重新计算桶下标
 
 ```
-
 这部分原理见：https://blog.csdn.net/qq_27093465/article/details/52270519
 
 简要总结下原理：
